@@ -1,0 +1,3 @@
+tracking_id,warehouse_code,destination_city,vehicle_number,cargo_weight_kg,freight_amount,expected_delivery
+TRK-10001,WH-MUM-01,Pune,MH12AB4567,850.00,12500.00,2026-12-01T14:00:00Z
+TRK-10002,WH-MUM-01,Nagpur,MH31XY9876,2400.50,34000.00,2026-12-03T18:00:00Z
